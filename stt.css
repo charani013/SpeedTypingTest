@@ -1,0 +1,60 @@
+.container-bgcolor {
+  background-image: linear-gradient(#dac0ff, #f3eaff);
+  height: 170vh;
+}
+
+.heding-speed-typing-test {
+  font-family: bree Serif;
+  font-size: 50px;
+  color: #690cb0;
+  font-weight: 700;
+}
+
+.paragraph-class {
+  font-family: bree Serif;
+  font-size: 17px;
+  color: #3e4c59;
+}
+
+.small-image {
+  height: 60px;
+}
+
+.container-bgcolor2 {
+  background-color: #f2ebfe;
+  padding: 15px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #9aa5b1;
+}
+
+.timer-size {
+  font-family: bree Serif;
+  font-size: 54px;
+}
+
+.text-area {
+  font-family: bree Serif;
+}
+
+.button-class {
+  font-family: Bree Serif;
+  height: 40px;
+  width: 90px;
+  border-radius: 5px;
+  border-width: 0px;
+  background-color: #690cb0;
+  color: white;
+  margin-right: 15px;
+}
+
+.button-class2 {
+  font-family: Bree Serif;
+  height: 40px;
+  width: 80px;
+  border-radius: 5px;
+  border-width: 0px;
+  background-color: white;
+  color: black;
+}
